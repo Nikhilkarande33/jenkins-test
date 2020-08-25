@@ -10,6 +10,7 @@ public class TestController {
 	public String getName() {
 		System.out.println("Hello");
 		System.out.println("Hello2");
+		System.out.println("Hello3");
 		return "Hello";
 	}
 }
